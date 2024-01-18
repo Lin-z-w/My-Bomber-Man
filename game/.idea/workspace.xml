@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="454a6735-3db5-43b8-9bbb-3292c584ae4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/j05-Lin-z-w.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/j05-Lin-z-w.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Software/maven/apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="D:\Software\maven\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ZOWMiSiLNaEQ6ihSU5Wrs0vb4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/hw/j05-Lin-z-w/game&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\hw\j05-Lin-z-w\game\image" />
+      <recent name="D:\Java\hw\j05-Lin-z-w\game\src\main\resources\saveGame" />
+      <recent name="D:\Java\hw\j05-Lin-z-w\game\src\main\resources" />
+      <recent name="D:\Java\hw\j05-Lin-z-w\game\src\main\resources\image" />
+      <recent name="D:\Java\hw\j05-Lin-z-w\game\src\main\java\lzw" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lzw" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lzw.networkio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GameServer">
+    <configuration name="BomberGame" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lzw.BomberGame" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lzw.GameServer" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testGameServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lzw" />
+      <option name="MAIN_CLASS_NAME" value="lzw.AppTest" />
+      <option name="METHOD_NAME" value="testGameServer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lzw in game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/lzw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BomberGame" />
+      <item itemvalue="Application.GameServer" />
+      <item itemvalue="JUnit.AppTest.testGameServer" />
+      <item itemvalue="JUnit.java in game" />
+      <item itemvalue="JUnit.lzw in game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameServer" />
+        <item itemvalue="Application.BomberGame" />
+        <item itemvalue="JUnit.AppTest.testGameServer" />
+        <item itemvalue="JUnit.lzw in game" />
+        <item itemvalue="JUnit.java in game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454a6735-3db5-43b8-9bbb-3292c584ae4f" name="Changes" comment="" />
+      <created>1702293561856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702293561856</updated>
+      <workItem from="1702293563151" duration="1178000" />
+      <workItem from="1702301040868" duration="110000" />
+      <workItem from="1702301320087" duration="6988000" />
+      <workItem from="1702350463624" duration="4378000" />
+      <workItem from="1702380896931" duration="13956000" />
+      <workItem from="1702436491471" duration="3119000" />
+      <workItem from="1702530028179" duration="2759000" />
+      <workItem from="1702537107681" duration="2782000" />
+      <workItem from="1702540783546" duration="5700000" />
+      <workItem from="1702648643964" duration="1207000" />
+      <workItem from="1702696407479" duration="5229000" />
+      <workItem from="1702716708194" duration="15000" />
+      <workItem from="1702725876359" duration="60000" />
+      <workItem from="1702726078654" duration="859000" />
+      <workItem from="1702727118932" duration="18543000" />
+      <workItem from="1702781402646" duration="19555000" />
+      <workItem from="1702806047105" duration="141000" />
+      <workItem from="1702806270185" duration="892000" />
+      <workItem from="1702823663942" duration="625000" />
+      <workItem from="1702824642990" duration="1782000" />
+      <workItem from="1702882366373" duration="1635000" />
+      <workItem from="1702885083838" duration="599000" />
+      <workItem from="1702956797440" duration="627000" />
+      <workItem from="1702983073773" duration="23584000" />
+      <workItem from="1703039196465" duration="8546000" />
+      <workItem from="1703059445029" duration="4266000" />
+      <workItem from="1703085558586" duration="2057000" />
+      <workItem from="1703125081924" duration="321000" />
+      <workItem from="1703125437514" duration="4675000" />
+      <workItem from="1703141754002" duration="2423000" />
+      <workItem from="1703145518695" duration="5126000" />
+      <workItem from="1703297823650" duration="2105000" />
+      <workItem from="1703300186779" duration="1682000" />
+      <workItem from="1703645960066" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/game$lzw_in_game__1_.ic" NAME="lzw in game (1) Coverage Results" MODIFIED="1702784296588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/game$AppTest.ic" NAME="AppTest Coverage Results" MODIFIED="1702739670405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lzw.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/game$java_in_game.ic" NAME="java in game Coverage Results" MODIFIED="1703147216188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/game$BomberGameScreenTest.ic" NAME="BomberGameScreenTest Coverage Results" MODIFIED="1702738772664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lzw.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/game$lzw_in_game.ic" NAME="lzw in game Coverage Results" MODIFIED="1703148389249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
